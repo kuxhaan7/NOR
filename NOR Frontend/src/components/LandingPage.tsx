@@ -163,7 +163,7 @@ export function LandingPage({ onNavigate, isAdmin }: LandingPageProps) {
       {/* Footer */}
       <footer className="border-t mt-16 py-8">
         <div className="container mx-auto px-4 text-center text-gray-600 text-sm">
-          <p>NetPulse - Developed by Shaik Nagur Basha</p>
+          <p>Copyright © NetPulse 2025 </p>
           <Button 
             onClick={() => onNavigate('about')} 
             variant="link"
