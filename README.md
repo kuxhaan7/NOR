@@ -1,7 +1,7 @@
 
   # Network Issue Reporting App
 
-  This is a code bundle for Network Issue Reporting App. The original project is available at https://www.figma.com/design/4JXrzLnDHaGwmgztRQnznt/Network-Issue-Reporting-App.
+  This is a code bundle for Network Issue Reporting App. The original project is available at [https://www.figma.com/design/4JXrzLnDHaGwmgztRQnznt/Network-Issue-Reporting-App.](https://network-reporting-offline-app.vercel.app/)
 
   ## Running the code
 
